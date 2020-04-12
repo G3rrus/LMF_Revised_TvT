@@ -70,7 +70,7 @@ var_i_supSpecial = "Box_IND_WpsSpecial_F"; // Supply special supplies
 var_i_supExplosives = "Box_IND_AmmoOrd_F"; // Supply explosives supplies
 
 //PLAYER GEAR (Only relevant if var_playerGear = true;)
-var_tfar = true; // Use TFAR radio system instead of Acre? (default = false)
+var_tfar = false; // Use TFAR radio system instead of Acre? (default = false)
 var_personalRadio = true; // Does everyone get a short range radio (AN/PRC 343)? (default: true)
 var_backpacksAll = false; // Give all players backpacks? (Certain roles will have backpacks regardless) (default: false)
 var_pistolAll = false; // Give all players sidearms? (default: false)
